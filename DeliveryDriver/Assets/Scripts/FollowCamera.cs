@@ -5,8 +5,8 @@ using UnityEngine;
 public class FollowCamera : MonoBehaviour
 {
     // The camera's position should be the same as the driver's position.
-    [SerializeField] private GameObject follow;
-    [SerializeField] private float damping = 25;
+    [SerializeField] GameObject follow;
+    [SerializeField] float damping = 25;
 
     void Update()
     {

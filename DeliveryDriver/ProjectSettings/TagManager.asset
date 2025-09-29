@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Package
+  - Customer
+  - Boost
+  - Slow
   layers:
   - Default
   - TransparentFX
@@ -47,11 +51,8 @@ TagManager:
   - name: Roads
     uniqueID: 2999906319
     locked: 0
-  - name: Bump Objects
+  - name: Bump
     uniqueID: 1988319613
-    locked: 0
-  - name: Pickups
-    uniqueID: 511152275
     locked: 0
   - name: Driver
     uniqueID: 2313916809
