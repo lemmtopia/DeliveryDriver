@@ -41,3 +41,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 2767106675
+    locked: 0
+  - name: Roads
+    uniqueID: 2999906319
+    locked: 0
+  - name: Bump Objects
+    uniqueID: 1988319613
+    locked: 0
+  - name: Pickups
+    uniqueID: 511152275
+    locked: 0
+  - name: Driver
+    uniqueID: 2313916809
+    locked: 0
